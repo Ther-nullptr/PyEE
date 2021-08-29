@@ -20,13 +20,13 @@ It will have two parts: symbolic computation part and plotting part. The symboli
 >
 >    When we use Sympy in Jupyter Notebook, it is able to display results in $\LaTeX$ style.
 >
->    ![image-20210829180419818](C:\Users\86181\AppData\Roaming\Typora\typora-user-images\image-20210829180419818.png)
+>    ![image-20210829180419818](https://i.loli.net/2021/08/29/wkceFopNHO5ibjP.png)
 >
 > 2. Why matplotlib?
 >
 >    Matplotlib(https://matplotlib.org/) has beautiful drawing style and simple operations.
 >
->    ![image-20210829180655661](C:\Users\86181\AppData\Roaming\Typora\typora-user-images\image-20210829180655661.png)
+>    ![image-20210829180655661](https://i.loli.net/2021/08/29/vrSCmNpUkyxJXzF.png)
 
 ## Usage(to do)
 
